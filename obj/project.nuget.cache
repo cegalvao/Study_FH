@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EPoyrzqmzlac2+6wn/MUdcClpsx1FTRxPrVMVFU6vH8J5fnfj1/SNkeQGlowEa7QZFIYgUHf/Dxr8Z9qNMVu8g==",
+  "success": true,
+  "projectFilePath": "D:\\OneDrive - ufpr.br\\Visual Studio 2019\\Projects\\Study_FH\\Study_FH\\Study_FH.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.text.json\\6.0.1\\system.text.json.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

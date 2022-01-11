@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Study_FH": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
